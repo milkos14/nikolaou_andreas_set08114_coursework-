@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res-auto"
+    xmlns:android1="http://schemas.android.com/apk/res/android">
+
+    <item
+        android1:id="@+id/action_save_task"
+        android1:icon="@drawable/ic_done_black_24dp"
+        android1:title="Save"
+        android:showAsAction="always"/>
+
+</menu>
